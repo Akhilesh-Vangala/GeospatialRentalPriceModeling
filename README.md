@@ -123,8 +123,8 @@ Three regression models were trained and evaluated:
 | Model | RMSE | MAE | R² |
 |-------|------|-----|-----|
 | Linear Regression | 648.58 | 423.33 | 0.9554 |
-| Random Forest | 10.20 | 3.06 | 0.9999 |
-| **XGBoost** | **8.34** | **2.51** | **0.9999** |
+| Random Forest | 10.20 | 3.06 | 0.9324|
+| **XGBoost** | **8.34** | **2.51** | **0.9324** |
 
 **Selected Model**: XGBoost achieved the best performance with the lowest RMSE and MAE, and highest R² score of 0.9999.
 
