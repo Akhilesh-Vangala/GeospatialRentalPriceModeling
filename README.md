@@ -5,6 +5,7 @@
 
 DS-GA 1007: Advanced Programming for Data Science  
 Fall 2025 Final Project
+Contributors : Akhilesh Vangala, Anvita R Inture
 
 ---
 
